@@ -1,1 +1,1 @@
-# Classical hangman game with save and load option.
+ Classical hangman game with save and load option.
